@@ -1,0 +1,55 @@
+body {
+
+    background-color:#F7B538;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.pizza {
+
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border: 1px solid black;
+    padding: 1em;
+    margin: 1em;
+    margin-left: 0cm;
+    
+    margin-bottom: 0.5cm;
+    border-radius: 0.5cm;
+
+}
+
+.small_pizza {
+
+
+    background-color: #C32F27;
+    
+    }
+
+.medium_pizza {
+
+    background-color: #DB7C26;
+    
+}
+
+.large_pizza {
+
+    background-color: #D8572A;
+    
+}
+
+
+
+
+.details {
+
+    background-color: #780116;
+    
+    
+}
+
+@media (min-width: 960px) {
+
+    .pizzas {
+
+        display: flex;
+    }
+}
