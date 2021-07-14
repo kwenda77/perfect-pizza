@@ -2,6 +2,7 @@ body {
 
     background-color:#F7B538;
     font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
 }
 
 .pizza {
@@ -42,6 +43,7 @@ body {
 .details {
 
     background-color: #780116;
+    
     
     
 }
